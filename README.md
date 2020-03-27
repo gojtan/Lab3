@@ -1,4 +1,5 @@
 # Lab3
-Lab 3 java TDDE10
 
-VI TESTAR LITEGRANN
+Lab3 från JAVA/TDDE10
+
+"Paint från 80talet"
