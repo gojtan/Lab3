@@ -21,7 +21,7 @@ public class ColorPanel extends JPanel {
 		this.setBorder((BorderFactory.createLineBorder(Color.gray)));
 
 		Color saksblå = new Color(163, 248, 253);
-		Color rosa = new Color(245, 99, 200);
+		Color rosa = new Color(245, 99, 240);
 		Color lila = new Color(160, 37, 255);
 
 		colors.add(0, Color.BLACK);
