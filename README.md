@@ -1,4 +1,2 @@
 # Lab3
 Lab 3 java TDDE10
-
-VI TESTAR LITEGRANN
